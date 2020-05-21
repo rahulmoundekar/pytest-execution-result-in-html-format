@@ -23,7 +23,7 @@
     pip install -U pytest
     pip install pytest-html
     ```
-  # - Way of execute program as below :
-     >pytest -v -s --html=reports.html --self-contained-html
-     >
-     >pytest -v -s --html=.\reports\report.html --self-contained-html
+  ###  Way of execute program as below :
+   > pytest -v -s --html=reports.html --self-contained-html
+     
+   > pytest -v -s --html=.\reports\report.html --self-contained-html
